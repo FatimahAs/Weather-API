@@ -1,0 +1,124 @@
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-06-17T08:39:30.108Z"}
+{"level":"info","message":"GET / 200 41 - 3.972 ms","timestamp":"2025-06-17T08:40:18.305Z"}
+{"level":"info","message":"GET /listId 404 145 - 2.682 ms","timestamp":"2025-06-17T08:41:38.981Z"}
+{"level":"info","message":"GET / 200 41 - 1.044 ms","timestamp":"2025-06-17T08:42:02.177Z"}
+{"level":"info","message":"GET /api/lists 200 26 - 0.585 ms","timestamp":"2025-06-17T08:42:45.316Z"}
+{"level":"info","message":"GET / 200 41 - 0.327 ms","timestamp":"2025-06-17T08:43:01.290Z"}
+{"level":"info","message":"GET /api/lists/:listId/items 404 42 - 1.474 ms","timestamp":"2025-06-17T08:43:04.454Z"}
+{"level":"info","message":"POST /createList 404 150 - 3.527 ms","timestamp":"2025-06-17T08:45:50.507Z"}
+{"level":"info","message":"POST /api/createList 404 154 - 0.618 ms","timestamp":"2025-06-17T08:46:57.244Z"}
+{"level":"info","message":"POST /api/list 404 148 - 4.841 ms","timestamp":"2025-06-17T08:47:05.676Z"}
+{"level":"info","message":"POST / 404 140 - 0.852 ms","timestamp":"2025-06-17T08:47:57.615Z"}
+{"level":"info","message":"POST / 404 140 - 0.918 ms","timestamp":"2025-06-17T08:50:02.861Z"}
+{"level":"info","message":"GET /api/createList 404 153 - 0.622 ms","timestamp":"2025-06-17T08:51:26.220Z"}
+{"level":"info","message":"POST /api/createList 404 154 - 2.157 ms","timestamp":"2025-06-17T08:51:33.164Z"}
+{"level":"info","message":"POST /createList 404 150 - 3.359 ms","timestamp":"2025-06-17T08:52:01.473Z"}
+{"level":"info","message":"POST / 404 140 - 0.690 ms","timestamp":"2025-06-17T08:53:05.115Z"}
+{"level":"info","message":"POST //api/lists 404 150 - 1.262 ms","timestamp":"2025-06-17T09:12:01.988Z"}
+{"level":"info","message":"POST /api/lists 400 97 - 1.955 ms","timestamp":"2025-06-17T09:12:07.593Z"}
+{"level":"info","message":"GET /api/lists 200 26 - 0.462 ms","timestamp":"2025-06-17T09:12:14.990Z"}
+{"level":"info","message":"GET /api/lists/:listId/items 404 42 - 1.864 ms","timestamp":"2025-06-17T09:12:57.598Z"}
+{"level":"info","message":"GET /api/lists/listId/items 404 42 - 0.447 ms","timestamp":"2025-06-17T09:13:04.473Z"}
+{"level":"info","message":"POST /api/lists/listId/items 400 97 - 1.228 ms","timestamp":"2025-06-17T09:13:15.773Z"}
+{"level":"info","message":"GET /api/lists/listId/items 404 42 - 0.422 ms","timestamp":"2025-06-17T09:13:30.590Z"}
+{"level":"info","message":"GET /api/listId/items 404 155 - 0.596 ms","timestamp":"2025-06-17T09:13:43.280Z"}
+{"level":"info","message":"GET /api/items 404 148 - 3.476 ms","timestamp":"2025-06-17T09:13:49.170Z"}
+{"level":"info","message":"POST /api/items 404 149 - 0.460 ms","timestamp":"2025-06-17T09:13:54.773Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-06-17T09:16:54.515Z"}
+{"level":"info","message":"POST /api/lists 400 97 - 4.183 ms","timestamp":"2025-06-17T09:20:56.841Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-06-17T09:27:35.932Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-06-17T09:28:12.110Z"}
+{"level":"info","message":"POST /api/lists 400 97 - 5.662 ms","timestamp":"2025-06-17T09:28:12.984Z"}
+{"level":"info","message":"POST /api/lists 400 97 - 0.614 ms","timestamp":"2025-06-17T09:28:14.893Z"}
+{"level":"info","message":"POST /api/lists 201 204 - 29.844 ms","timestamp":"2025-06-17T09:28:41.158Z"}
+{"level":"info","message":"GET /api/01JXYKG9DW7C84XGARC33EYRYG 404 169 - 8.740 ms","timestamp":"2025-06-17T09:29:03.360Z"}
+{"level":"info","message":"GET /api/lists/01JXYKG9DW7C84XGARC33EYRYG/items/ 200 26 - 9.187 ms","timestamp":"2025-06-17T09:30:04.879Z"}
+{"level":"info","message":"GET /api/lists 200 206 - 0.647 ms","timestamp":"2025-06-17T09:30:12.822Z"}
+{"level":"info","message":"GET /api/lists/list-id-here 404 42 - 0.613 ms","timestamp":"2025-06-17T09:30:20.450Z"}
+{"level":"info","message":"PUT /api/lists/list-id-here 404 42 - 1.198 ms","timestamp":"2025-06-17T09:30:38.032Z"}
+{"level":"info","message":"DELETE /api/lists/list-id-here 404 42 - 1.110 ms","timestamp":"2025-06-17T09:30:48.589Z"}
+{"level":"info","message":"GET /api/lists/01JXYKG9DW7C84XGARC33EYRYG 200 215 - 0.625 ms","timestamp":"2025-06-17T09:30:59.186Z"}
+{"level":"info","message":"GET / 304 - - 3.845 ms","timestamp":"2025-06-17T09:36:27.568Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-06-18T04:38:40.689Z"}
+{"level":"info","message":"POST /api/carmake 201 172 - 27.263 ms","timestamp":"2025-06-18T04:38:41.728Z"}
+{"level":"info","message":"POST /api/cardealer 201 193 - 3.389 ms","timestamp":"2025-06-18T04:42:58.817Z"}
+{"level":"info","message":"POST /api/car 201 295 - 2.241 ms","timestamp":"2025-06-18T04:46:01.861Z"}
+{"level":"info","message":"GET /api/car 200 297 - 2.997 ms","timestamp":"2025-06-18T04:46:32.257Z"}
+{"level":"info","message":"POST /api/car 201 295 - 1.883 ms","timestamp":"2025-06-18T04:46:43.680Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-06-18T15:03:05.506Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-06-18T15:04:12.882Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-06-18T15:04:55.359Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-06-18T15:22:49.723Z"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2025-06-18T15:22:51.413Z"}
+{"level":"info","message":"All collections dropped","timestamp":"2025-06-18T15:22:51.885Z"}
+{"level":"info","message":"POST /api/cardealer 201 200 - 173.197 ms","timestamp":"2025-06-18T15:30:17.045Z"}
+{"level":"info","message":"POST /api/cardealer 201 199 - 126.183 ms","timestamp":"2025-06-18T15:33:33.145Z"}
+{"level":"info","message":"GET /api/cardealer 200 378 - 118.058 ms","timestamp":"2025-06-18T15:33:42.133Z"}
+{"level":"info","message":"POST /api/carmake 201 174 - 246.129 ms","timestamp":"2025-06-18T15:36:00.953Z"}
+{"level":"info","message":"POST /api/carmake 201 178 - 136.912 ms","timestamp":"2025-06-18T15:36:26.028Z"}
+{"level":"info","message":"GET /api/carmake 200 331 - 374.174 ms","timestamp":"2025-06-18T15:36:32.466Z"}
+{"level":"info","message":"POST /api/carmake 201 175 - 105.998 ms","timestamp":"2025-06-18T15:40:05.256Z"}
+{"level":"info","message":"POST /api/car 404 49 - 185.845 ms","timestamp":"2025-06-18T15:41:42.074Z"}
+{"level":"info","message":"POST /api/car 404 49 - 100.041 ms","timestamp":"2025-06-18T15:42:13.422Z"}
+{"level":"info","message":"POST /api/car 404 49 - 102.905 ms","timestamp":"2025-06-18T15:42:33.090Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-06-18T15:44:38.590Z"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2025-06-18T15:44:40.064Z"}
+{"level":"info","message":"All collections dropped","timestamp":"2025-06-18T15:44:40.667Z"}
+{"level":"info","message":"POST /api/car 404 49 - 1640.635 ms","timestamp":"2025-06-18T15:44:40.883Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-06-18T15:48:19.339Z"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2025-06-18T15:48:20.785Z"}
+{"level":"info","message":"All collections dropped","timestamp":"2025-06-18T15:48:21.480Z"}
+{"level":"info","message":"POST /api/car 404 49 - 135.470 ms","timestamp":"2025-06-18T15:48:24.205Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-06-18T15:49:40.456Z"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2025-06-18T15:49:41.692Z"}
+{"level":"info","message":"All collections dropped","timestamp":"2025-06-18T15:49:42.149Z"}
+{"level":"info","message":"POST /api/car 404 49 - 203.428 ms","timestamp":"2025-06-18T15:51:46.789Z"}
+{"level":"info","message":"POST /api/cardealer 201 199 - 160.456 ms","timestamp":"2025-06-18T15:52:47.533Z"}
+{"level":"info","message":"POST /api/car 404 46 - 218.718 ms","timestamp":"2025-06-18T15:53:40.912Z"}
+{"level":"info","message":"POST /api/carmake 201 178 - 201.015 ms","timestamp":"2025-06-18T15:57:02.162Z"}
+{"level":"info","message":"POST /api/car 201 298 - 333.389 ms","timestamp":"2025-06-18T15:57:14.646Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-06-18T16:00:00.522Z"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2025-06-18T16:00:02.436Z"}
+{"level":"info","message":"All collections dropped","timestamp":"2025-06-18T16:00:02.902Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-06-18T16:01:30.541Z"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2025-06-18T16:01:31.815Z"}
+{"level":"info","message":"All collections dropped","timestamp":"2025-06-18T16:01:32.250Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-06-18T16:15:33.398Z"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2025-06-18T16:15:34.744Z"}
+{"level":"info","message":"POST /api/carmake 201 178 - 632.010 ms","timestamp":"2025-06-18T16:16:14.831Z"}
+{"level":"info","message":"POST /api/carmake 201 174 - 787.485 ms","timestamp":"2025-06-18T16:16:35.935Z"}
+{"level":"info","message":"POST /api/carmake 201 175 - 105.319 ms","timestamp":"2025-06-18T16:16:46.816Z"}
+{"level":"info","message":"POST /api/carmake 201 179 - 106.844 ms","timestamp":"2025-06-18T16:17:36.104Z"}
+{"level":"info","message":"POST /api/cardealer 201 199 - 103.631 ms","timestamp":"2025-06-18T16:18:22.569Z"}
+{"level":"info","message":"POST /api/cardealer 201 199 - 122.896 ms","timestamp":"2025-06-18T16:18:41.823Z"}
+{"level":"info","message":"POST /api/cardealer 201 199 - 182.777 ms","timestamp":"2025-06-18T16:18:53.667Z"}
+{"level":"info","message":"POST /api/car 201 298 - 331.406 ms","timestamp":"2025-06-18T16:19:52.612Z"}
+{"level":"info","message":"GET /api/cardealer 200 553 - 106.906 ms","timestamp":"2025-06-18T16:20:28.396Z"}
+{"level":"info","message":"GET /api/carmake 200 639 - 119.439 ms","timestamp":"2025-06-18T16:20:50.845Z"}
+{"level":"info","message":"POST /api/car 201 296 - 308.035 ms","timestamp":"2025-06-18T16:21:07.172Z"}
+{"level":"info","message":"POST /api/car 201 297 - 399.988 ms","timestamp":"2025-06-18T16:21:50.276Z"}
+{"level":"info","message":"GET /api/car 400 310 - 8.031 ms","timestamp":"2025-06-18T16:21:54.187Z"}
+{"level":"info","message":"GET /api/car 400 310 - 7.029 ms","timestamp":"2025-06-18T16:22:05.686Z"}
+{"level":"info","message":"GET /api/car 400 310 - 0.659 ms","timestamp":"2025-06-18T16:22:29.460Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-06-18T16:35:06.357Z"}
+{"level":"info","message":"GET /api/car 400 298 - 30.634 ms","timestamp":"2025-06-18T16:35:07.914Z"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2025-06-18T16:35:08.655Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-06-18T16:36:58.432Z"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2025-06-18T16:36:59.678Z"}
+{"level":"info","message":"GET /api/car 400 116 - 167.260 ms","timestamp":"2025-06-18T16:37:05.439Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-06-18T16:37:31.189Z"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2025-06-18T16:37:32.491Z"}
+{"level":"info","message":"GET /api/car 200 847 - 139.872 ms","timestamp":"2025-06-18T16:37:37.478Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-06-18T16:38:39.230Z"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2025-06-18T16:38:40.671Z"}
+{"level":"info","message":"POST /api/carmake 400 99 - 14.566 ms","timestamp":"2025-06-18T16:50:03.310Z"}
+{"level":"info","message":"GET /api/carmake 200 639 - 144.782 ms","timestamp":"2025-06-18T16:50:13.875Z"}
+{"level":"info","message":"POST /api/carmake 201 186 - 191.629 ms","timestamp":"2025-06-18T16:51:55.527Z"}
+{"level":"info","message":"GET /api/cardealer 200 553 - 107.334 ms","timestamp":"2025-06-18T16:52:22.604Z"}
+{"level":"info","message":"POST /api/cardealer 201 198 - 114.074 ms","timestamp":"2025-06-18T16:52:59.352Z"}
+{"level":"info","message":"GET /api/car 200 847 - 126.352 ms","timestamp":"2025-06-18T16:53:21.017Z"}
+{"level":"info","message":"POST /api/car 201 299 - 624.567 ms","timestamp":"2025-06-18T16:55:57.356Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-06-18T16:56:27.705Z"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2025-06-18T16:56:29.187Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-06-18T16:57:44.137Z"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2025-06-18T16:57:45.337Z"}
