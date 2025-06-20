@@ -1,4 +1,3 @@
-// utils/fetchWeather.ts
 import axios from 'axios';
 
 const FetchWeather = async (lat: number, lon: number) => {
