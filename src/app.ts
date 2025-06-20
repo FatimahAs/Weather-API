@@ -6,11 +6,12 @@ import dotenv from 'dotenv';
 import logger from './utils/logger';
 import { dev, port } from './utils/helpers';
 import authRoutes from './routes/Auth.routes';
-import historyRoutes from './routes/History.routes';
-import witherRoutes from './routes/Weather.routes';
 import { OK, INTERNAL_SERVER_ERROR } from './utils/http-status';
 import { connectDB } from './db/Mongoose';
 
+import { getWeather } from './controllers/Weather.Controller';
+import { getUserHistory } from './controllers/History.Controller';
+import { authenticate } from './middleware/auth';
 
 
 // Load environment variables
@@ -38,8 +39,8 @@ app.use(express.urlencoded({ extended: true }));
 
 // Routes
 app.use('/auth', authRoutes);
-app.get('/weather', witherRoutes);
-app.get('/history', historyRoutes);
+app.get('/weather', authenticate, getWeather);
+app.get('/history', authenticate, getUserHistory);
 
 
 
