@@ -5,9 +5,9 @@ import morgan from 'morgan';
 import dotenv from 'dotenv';
 import logger from './utils/logger';
 import { dev, port } from './utils/helpers';
-import listCar from './routes/Car.routes';
-import listDealer from './routes/CarDealer.routes';
-import listMake from './routes/CarMake.routes';
+import authRoutes from './routes/Auth.routes';
+import historyRoutes from './routes/History.routes';
+import witherRoutes from './routes/Weather.routes';
 import { OK, INTERNAL_SERVER_ERROR } from './utils/http-status';
 import { connectDB } from './db/Mongoose';
 
@@ -37,11 +37,9 @@ app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
 
 // Routes
-app.use('/auth/signup', listDealer);
-app.use('/auth/signin', listMake);
-app.use('/auth/signout', listCar);
-app.use('/weather', listCar);
-app.use('/history', listCar);
+app.use('/auth', authRoutes);
+app.get('/weather', witherRoutes);
+app.get('/history', historyRoutes);
 
 
 
@@ -49,7 +47,7 @@ app.use('/history', listCar);
 app.get('/', (req: Request, res: Response) => {
   res
     .status(OK)
-    .json({ message: 'Car API - Welcome!' });
+    .json({ message: 'Weather API - Welcome!' });
 });
 
 // Basic error handling middleware
