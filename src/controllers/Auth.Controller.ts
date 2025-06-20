@@ -49,5 +49,5 @@ export const signIn = async (req: Request, res: Response): Promise<void> => {
 };
 
 export const signOut = async (req: Request, res: Response): Promise<void> => {
-  res.json({ message: 'Signout successful (client must delete token)' });
+  res.json({ message: 'Signout successful' });
 };

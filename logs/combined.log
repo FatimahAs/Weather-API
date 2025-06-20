@@ -200,3 +200,24 @@
 {"level":"info","message":"GET /history?skip=0&limit=10&sort=-requestedAt&from=2025-06-01&to=2025-06-19 200 782 - 266.096 ms","timestamp":"2025-06-20T10:16:02.085Z"}
 {"level":"info","message":"Server is running on port 3000","timestamp":"2025-06-20T10:22:07.989Z"}
 {"level":"info","message":"MongoDB connected successfully","timestamp":"2025-06-20T10:22:09.492Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-06-20T10:22:40.849Z"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2025-06-20T10:22:42.091Z"}
+{"level":"info","message":"GET / 200 36 - 21.931 ms","timestamp":"2025-06-20T10:27:01.999Z"}
+{"level":"info","message":"GET / 304 - - 4.567 ms","timestamp":"2025-06-20T10:28:04.562Z"}
+{"level":"info","message":"GET / 304 - - 0.617 ms","timestamp":"2025-06-20T10:28:10.297Z"}
+{"level":"info","message":"GET /index 404 144 - 59.770 ms","timestamp":"2025-06-20T10:28:20.995Z"}
+{"level":"info","message":"GET /index.html 404 149 - 0.443 ms","timestamp":"2025-06-20T10:28:26.323Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-06-20T10:29:07.329Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-06-20T10:29:45.649Z"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2025-06-20T10:29:47.199Z"}
+{"level":"info","message":"GET /index 404 144 - 5.015 ms","timestamp":"2025-06-20T10:29:50.564Z"}
+{"level":"info","message":"GET /index 404 144 - 1.978 ms","timestamp":"2025-06-20T10:29:54.246Z"}
+{"level":"info","message":"GET /index 404 144 - 1.738 ms","timestamp":"2025-06-20T10:29:55.975Z"}
+{"level":"info","message":"GET /index.html 404 149 - 0.836 ms","timestamp":"2025-06-20T10:30:02.683Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-06-20T10:32:20.824Z"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2025-06-20T10:32:22.257Z"}
+{"level":"info","message":"GET /weather?lat=24.7136&lon=46.6753 401 43 - 6.092 ms","timestamp":"2025-06-20T10:34:40.929Z"}
+{"level":"info","message":"GET /weather?lat=40.7136&lon=20.6753 200 506 - 747.604 ms","timestamp":"2025-06-20T10:38:30.014Z"}
+{"level":"info","message":"GET /history?skip=0&limit=10&sort=-requestedAt&from=2025-05-01&to=2025-06-20 200 1558 - 279.200 ms","timestamp":"2025-06-20T10:40:16.215Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-06-20T10:42:41.957Z"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2025-06-20T10:42:43.201Z"}
