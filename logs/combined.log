@@ -265,3 +265,201 @@
 {"level":"info","message":"MongoDB connected successfully","timestamp":"2025-06-20T11:21:21.673Z"}
 {"level":"info","message":"GET /history?skip=0&limit=10&sort=-requestedAt&from=2025-06-01&to=2025-06-19 200 779 - 270.414 ms","timestamp":"2025-06-20T11:21:40.447Z"}
 {"level":"info","message":"GET /weather?lat=24.5247&lon=39.5692 200 496 - 1301.578 ms","timestamp":"2025-06-20T11:22:24.270Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-06-22T10:17:17.781Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-06-22T13:30:39.319Z"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2025-06-22T13:30:42.205Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-06-22T13:40:12.250Z"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2025-06-22T13:40:13.906Z"}
+{"level":"info","message":"Server is running on port 3001","timestamp":"2025-06-22T13:45:02.822Z"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2025-06-22T13:45:04.280Z"}
+{"level":"info","message":"POST /auth/signup 500 111 - 4.766 ms","timestamp":"2025-06-22T13:45:17.303Z"}
+{"level":"info","message":"POST /auth/signup 500 111 - 0.622 ms","timestamp":"2025-06-22T13:45:45.631Z"}
+{"level":"info","message":"POST /auth/signup 500 111 - 0.479 ms","timestamp":"2025-06-22T13:46:08.887Z"}
+{"level":"info","message":"POST /auth/signup 500 111 - 0.588 ms","timestamp":"2025-06-22T13:46:10.071Z"}
+{"level":"info","message":"POST /auth/signup 500 111 - 1.081 ms","timestamp":"2025-06-22T13:46:11.335Z"}
+{"level":"info","message":"Server is running on port 3001","timestamp":"2025-06-22T13:46:34.540Z"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2025-06-22T13:46:36.027Z"}
+{"level":"info","message":"POST /auth/signup 500 111 - 9.768 ms","timestamp":"2025-06-22T13:46:40.995Z"}
+{"level":"info","message":"POST /auth/signup 500 111 - 0.929 ms","timestamp":"2025-06-22T13:46:42.432Z"}
+{"level":"info","message":"POST /auth/signup 400 36 - 251.366 ms","timestamp":"2025-06-22T13:49:03.047Z"}
+{"level":"info","message":"POST /auth/signup 201 249 - 388.094 ms","timestamp":"2025-06-22T13:49:15.331Z"}
+{"level":"info","message":"POST /auth/signin 200 207 - 228.386 ms","timestamp":"2025-06-22T13:50:19.331Z"}
+{"level":"info","message":"GET /weather?lat=24.7136&lon=46.6753 401 39 - 53.103 ms","timestamp":"2025-06-22T13:53:03.815Z"}
+{"level":"info","message":"GET /weather?lat=24.7136&lon=46.6753 401 39 - 0.491 ms","timestamp":"2025-06-22T13:53:15.027Z"}
+{"level":"info","message":"GET /weather?lat=24.7136&lon=46.6753 401 39 - 0.373 ms","timestamp":"2025-06-22T13:53:31.788Z"}
+{"level":"info","message":"GET /weather?lat=21.4858&lon=39.1925 401 39 - 3.900 ms","timestamp":"2025-06-22T13:53:51.259Z"}
+{"level":"info","message":"POST /auth/signin 200 207 - 1364.020 ms","timestamp":"2025-06-22T14:37:15.109Z"}
+{"level":"info","message":"GET /weather?lat=21.4858&lon=39.1925 401 39 - 23.999 ms","timestamp":"2025-06-22T14:37:34.770Z"}
+{"level":"info","message":"POST /auth/signin 200 207 - 274.019 ms","timestamp":"2025-06-22T14:45:57.479Z"}
+{"level":"info","message":"POST /auth/signin 200 207 - 263.053 ms","timestamp":"2025-06-22T14:46:16.657Z"}
+{"level":"info","message":"GET /weather?lat=24.7136&lon=46.6753 401 39 - 31.171 ms","timestamp":"2025-06-22T14:46:30.012Z"}
+{"level":"info","message":"GET /weather?lat=24.7136&lon=46.6753 401 39 - 6.799 ms","timestamp":"2025-06-22T14:47:45.533Z"}
+{"level":"info","message":"GET /weather?lat=24.7136&lon=46.6753 401 39 - 2.508 ms","timestamp":"2025-06-22T14:47:46.195Z"}
+{"level":"info","message":"GET /weather?lat=24.7136&lon=46.6753 401 39 - 2.968 ms","timestamp":"2025-06-22T14:47:47.076Z"}
+{"level":"info","message":"POST /auth/signin 200 207 - 259.394 ms","timestamp":"2025-06-22T14:50:16.556Z"}
+{"level":"info","message":"GET /weather?lat=24.7136&lon=46.6753 401 39 - 5.830 ms","timestamp":"2025-06-22T14:50:37.067Z"}
+{"level":"info","message":"GET /weather?lat=24.7136&lon=46.6753 401 39 - 1.603 ms","timestamp":"2025-06-22T14:50:37.752Z"}
+{"level":"info","message":"GET /weather?lat=24.7136&lon=46.6753 401 39 - 1.615 ms","timestamp":"2025-06-22T14:50:39.849Z"}
+{"level":"info","message":"POST /auth/signin 200 207 - 207.694 ms","timestamp":"2025-06-22T14:53:15.771Z"}
+{"level":"info","message":"GET /weather?lat=24.7136&lon=46.6753 401 39 - 2.087 ms","timestamp":"2025-06-22T14:53:15.820Z"}
+{"level":"info","message":"POST /auth/signin 200 207 - 200.830 ms","timestamp":"2025-06-22T14:53:19.534Z"}
+{"level":"info","message":"GET /weather?lat=24.7136&lon=46.6753 401 39 - 25.416 ms","timestamp":"2025-06-22T14:53:19.567Z"}
+{"level":"info","message":"POST /auth/signin 200 207 - 214.900 ms","timestamp":"2025-06-22T14:53:20.749Z"}
+{"level":"info","message":"GET /weather?lat=24.7136&lon=46.6753 401 39 - 2.853 ms","timestamp":"2025-06-22T14:53:20.758Z"}
+{"level":"info","message":"POST /auth/signin 200 207 - 207.391 ms","timestamp":"2025-06-22T14:53:24.557Z"}
+{"level":"info","message":"GET /weather?lat=24.7136&lon=46.6753 401 39 - 8.820 ms","timestamp":"2025-06-22T14:53:24.579Z"}
+{"level":"info","message":"POST /auth/signin 200 207 - 197.457 ms","timestamp":"2025-06-22T14:53:26.743Z"}
+{"level":"info","message":"GET /weather?lat=24.7136&lon=46.6753 401 39 - 2.971 ms","timestamp":"2025-06-22T14:53:26.752Z"}
+{"level":"info","message":"POST /auth/signup 201 249 - 494.903 ms","timestamp":"2025-06-22T14:53:59.303Z"}
+{"level":"info","message":"POST /auth/signin 200 207 - 214.676 ms","timestamp":"2025-06-22T14:54:08.919Z"}
+{"level":"info","message":"POST /auth/signin 200 207 - 194.901 ms","timestamp":"2025-06-22T14:54:30.826Z"}
+{"level":"info","message":"GET /weather?lat=24.7136&lon=46.6753 401 39 - 18.818 ms","timestamp":"2025-06-22T14:54:30.852Z"}
+{"level":"info","message":"POST /auth/signin 200 207 - 191.857 ms","timestamp":"2025-06-22T14:54:54.019Z"}
+{"level":"info","message":"GET /weather?lat=24.7136&lon=46.6753 401 39 - 1.994 ms","timestamp":"2025-06-22T14:54:54.040Z"}
+{"level":"info","message":"GET /weather?lat=24&lon=46 401 39 - 27.808 ms","timestamp":"2025-06-22T14:59:21.886Z"}
+{"level":"info","message":"GET /weather?lat=24.71&lon=46.68 401 39 - 19.586 ms","timestamp":"2025-06-22T15:01:42.526Z"}
+{"level":"info","message":"POST /auth/signup 201 249 - 568.065 ms","timestamp":"2025-06-22T15:02:36.801Z"}
+{"level":"info","message":"POST /auth/signin 200 207 - 202.572 ms","timestamp":"2025-06-22T15:02:49.923Z"}
+{"level":"info","message":"GET /weather?lat=24.71&lon=46.68 401 39 - 4.421 ms","timestamp":"2025-06-22T15:03:30.016Z"}
+{"level":"info","message":"GET /weather?lat=24.71&lon=46.68 401 39 - 2.805 ms","timestamp":"2025-06-22T15:03:32.229Z"}
+{"level":"info","message":"Server is running on port 3001","timestamp":"2025-06-22T15:05:40.543Z"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2025-06-22T15:05:42.133Z"}
+{"level":"info","message":"GET /weather?lat=24.71&lon=46.68 401 39 - 11.544 ms","timestamp":"2025-06-22T15:05:50.323Z"}
+{"level":"info","message":"GET /weather?lat=24.71&lon=46.68 401 39 - 17.450 ms","timestamp":"2025-06-22T15:05:54.588Z"}
+{"level":"info","message":"POST /auth/signin 200 207 - 565.894 ms","timestamp":"2025-06-22T15:06:08.999Z"}
+{"level":"info","message":"GET /weather?lat=24.71&lon=46.68 401 39 - 16.981 ms","timestamp":"2025-06-22T15:06:48.417Z"}
+{"level":"info","message":"GET /weather?lat=24.71&lon=46.68 401 39 - 14.794 ms","timestamp":"2025-06-22T15:06:51.217Z"}
+{"level":"info","message":"Server is running on port 3001","timestamp":"2025-06-22T15:09:56.386Z"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2025-06-22T15:09:57.597Z"}
+{"level":"info","message":"GET /weather?lat=24.71&lon=46.68 401 39 - 13.622 ms","timestamp":"2025-06-22T15:10:03.735Z"}
+{"level":"info","message":"GET /weather?lat=24.71&lon=46.68 401 39 - 1.997 ms","timestamp":"2025-06-22T15:10:05.860Z"}
+{"level":"info","message":"GET /weather?lat=24.71&lon=46.68 401 43 - 20.281 ms","timestamp":"2025-06-22T15:14:43.044Z"}
+{"level":"info","message":"GET /weather?lat=24.71&lon=46.68 401 39 - 71.116 ms","timestamp":"2025-06-22T15:14:53.570Z"}
+{"level":"info","message":"Server is running on port 3001","timestamp":"2025-06-22T15:20:46.460Z"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2025-06-22T15:20:47.851Z"}
+{"level":"info","message":"GET /weather?lat=24.71&lon=46.68 401 39 - 5.859 ms","timestamp":"2025-06-22T15:20:50.584Z"}
+{"level":"info","message":"GET /weather?lat=24.71&lon=46.68 401 39 - 2.497 ms","timestamp":"2025-06-22T15:20:52.325Z"}
+{"level":"info","message":"Server is running on port 3001","timestamp":"2025-06-22T15:21:58.880Z"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2025-06-22T15:22:00.665Z"}
+{"level":"info","message":"GET /weather?lat=24.71&lon=46.68 401 39 - 7.740 ms","timestamp":"2025-06-22T15:22:31.056Z"}
+{"level":"info","message":"Server is running on port 3001","timestamp":"2025-06-22T15:22:53.881Z"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2025-06-22T15:22:55.124Z"}
+{"level":"info","message":"POST /auth/signup 201 62 - 401.290 ms","timestamp":"2025-06-22T15:23:54.342Z"}
+{"level":"info","message":"POST /auth/signin 200 207 - 245.350 ms","timestamp":"2025-06-22T15:24:13.744Z"}
+{"level":"info","message":"GET /weather?lat=24.71&lon=46.68 401 39 - 19.436 ms","timestamp":"2025-06-22T15:24:37.786Z"}
+{"level":"info","message":"GET /weather?lat=24.71&lon=46.68 401 39 - 2.207 ms","timestamp":"2025-06-22T15:24:39.249Z"}
+{"level":"info","message":"GET /weather?lat=24.71&lon=46.68 401 39 - 2.273 ms","timestamp":"2025-06-22T15:24:42.050Z"}
+{"level":"info","message":"Server is running on port 3001","timestamp":"2025-06-22T15:27:28.146Z"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2025-06-22T15:27:29.481Z"}
+{"level":"info","message":"GET /weather?lat=24.71&lon=46.68 401 39 - 6.215 ms","timestamp":"2025-06-22T15:27:38.699Z"}
+{"level":"info","message":"POST /auth/signin 200 207 - 282.713 ms","timestamp":"2025-06-22T15:28:04.651Z"}
+{"level":"info","message":"POST /auth/signin 200 207 - 206.395 ms","timestamp":"2025-06-22T15:28:07.322Z"}
+{"level":"info","message":"POST /auth/signin 200 207 - 219.162 ms","timestamp":"2025-06-22T15:28:10.261Z"}
+{"level":"info","message":"GET /weather?lat=24.71&lon=46.68 401 39 - 2.839 ms","timestamp":"2025-06-22T15:28:29.462Z"}
+{"level":"info","message":"Server is running on port 3001","timestamp":"2025-06-22T17:59:39.537Z"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2025-06-22T17:59:40.848Z"}
+{"level":"info","message":"POST /auth/signin 200 207 - 234.837 ms","timestamp":"2025-06-22T17:59:45.431Z"}
+{"level":"info","message":"GET /weather?lat=24.71&lon=46.68 401 39 - 3.494 ms","timestamp":"2025-06-22T18:00:05.091Z"}
+{"level":"info","message":"GET /weather?lat=24.71&lon=46.68 401 39 - 52.625 ms","timestamp":"2025-06-22T18:03:12.130Z"}
+{"level":"info","message":"GET /weather?lat=24.71&lon=46.68 401 39 - 12.127 ms","timestamp":"2025-06-22T18:03:15.714Z"}
+{"level":"info","message":"GET /weather?lat=24.71&lon=46.68 401 39 - 5.431 ms","timestamp":"2025-06-22T18:03:32.196Z"}
+{"level":"info","message":"GET /weather?lat=24.71&lon=46.68 401 39 - 1.631 ms","timestamp":"2025-06-22T18:04:01.329Z"}
+{"level":"info","message":"GET /weather?lat=24.71&lon=46.68 401 39 - 10.157 ms","timestamp":"2025-06-22T18:08:05.529Z"}
+{"level":"info","message":"GET /weather?lat=24.71&lon=46.68 401 39 - 2.068 ms","timestamp":"2025-06-22T18:08:10.951Z"}
+{"level":"info","message":"GET /weather?lat=24.71&lon=46.68 401 39 - 17.184 ms","timestamp":"2025-06-22T18:12:41.457Z"}
+{"level":"info","message":"Server is running on port 3001","timestamp":"2025-06-22T18:16:32.322Z"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2025-06-22T18:16:33.549Z"}
+{"level":"info","message":"GET /weather?lat=24.71&lon=46.68 401 39 - 23.396 ms","timestamp":"2025-06-22T18:16:39.208Z"}
+{"level":"info","message":"POST /auth/signin 200 207 - 280.351 ms","timestamp":"2025-06-22T18:17:42.920Z"}
+{"level":"info","message":"GET /weather?lat=24.71&lon=46.68 401 39 - 82.251 ms","timestamp":"2025-06-22T18:19:09.768Z"}
+{"level":"info","message":"GET /weather?lat=24.71&lon=46.68 401 39 - 2.243 ms","timestamp":"2025-06-22T18:19:37.096Z"}
+{"level":"info","message":"Server is running on port 3001","timestamp":"2025-06-22T18:21:17.491Z"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2025-06-22T18:21:18.745Z"}
+{"level":"info","message":"Server is running on port 3001","timestamp":"2025-06-22T18:22:25.836Z"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2025-06-22T18:22:26.993Z"}
+{"level":"info","message":"Server is running on port 3001","timestamp":"2025-06-22T18:27:13.446Z"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2025-06-22T18:27:14.724Z"}
+{"level":"info","message":"POST /auth/signin 200 207 - 315.543 ms","timestamp":"2025-06-22T18:28:20.065Z"}
+{"level":"info","message":"GET /weather?lat=24.71&lon=46.68 401 39 - 21.978 ms","timestamp":"2025-06-22T18:29:28.788Z"}
+{"level":"info","message":"GET /weather?lat=24.71&lon=46.68 401 39 - 2.209 ms","timestamp":"2025-06-22T18:29:49.375Z"}
+{"level":"info","message":"Server is running on port 3001","timestamp":"2025-06-22T18:48:37.405Z"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2025-06-22T18:48:38.688Z"}
+{"level":"info","message":"GET /weather?lat=24.71&lon=46.68 401 39 - 9.173 ms","timestamp":"2025-06-22T18:48:43.973Z"}
+{"level":"info","message":"GET /weather?lat=24.71&lon=46.68 401 39 - 2.591 ms","timestamp":"2025-06-22T18:48:46.183Z"}
+{"level":"info","message":"GET /weather?lat=24.71&lon=46.68 401 39 - 8.688 ms","timestamp":"2025-06-22T18:48:47.810Z"}
+{"level":"info","message":"Server is running on port 3001","timestamp":"2025-06-22T18:52:31.749Z"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2025-06-22T18:52:33.033Z"}
+{"level":"info","message":"GET /weather?lat=24.71&lon=46.68 401 39 - 9.680 ms","timestamp":"2025-06-22T18:52:42.558Z"}
+{"level":"info","message":"GET /weather?lat=24.71&lon=46.68 401 39 - 5.034 ms","timestamp":"2025-06-22T18:52:47.246Z"}
+{"level":"info","message":"GET /weather?lat=24.71&lon=46.68 401 39 - 2.810 ms","timestamp":"2025-06-22T18:52:48.817Z"}
+{"level":"info","message":"GET /weather?lat=24.71&lon=46.68 401 39 - 1.868 ms","timestamp":"2025-06-22T18:52:53.477Z"}
+{"level":"info","message":"GET /weather?lat=24.71&lon=46.68 401 39 - 2.508 ms","timestamp":"2025-06-22T18:52:57.760Z"}
+{"level":"info","message":"GET /weather?lat=24.71&lon=46.68 401 39 - 2.250 ms","timestamp":"2025-06-22T18:53:04.024Z"}
+{"level":"info","message":"GET /weather?lat=24.71&lon=46.68 401 39 - 2.298 ms","timestamp":"2025-06-22T18:53:08.414Z"}
+{"level":"info","message":"GET /weather?lat=24.71&lon=46.68 401 39 - 1.776 ms","timestamp":"2025-06-22T18:53:45.944Z"}
+{"level":"info","message":"GET /weather?lat=24.71&lon=46.68 401 39 - 1.900 ms","timestamp":"2025-06-22T18:55:30.348Z"}
+{"level":"info","message":"GET /weather?lat=24.71&lon=46.68 401 39 - 1.715 ms","timestamp":"2025-06-22T18:57:18.904Z"}
+{"level":"info","message":"GET /weather?lat=24.71&lon=46.68 401 39 - 137.657 ms","timestamp":"2025-06-23T01:14:37.594Z"}
+{"level":"info","message":"POST /auth/signin 200 207 - 1734.291 ms","timestamp":"2025-06-23T01:14:48.481Z"}
+{"level":"info","message":"GET /weather?lat=24.71&lon=46.68 401 39 - 6.810 ms","timestamp":"2025-06-23T01:15:13.107Z"}
+{"level":"info","message":"GET /weather?lat=24.71&lon=46.68 401 39 - 2.447 ms","timestamp":"2025-06-23T01:15:16.881Z"}
+{"level":"info","message":"GET /weather?lat=24.71&lon=46.68 401 39 - 8.465 ms","timestamp":"2025-06-23T01:16:32.830Z"}
+{"level":"info","message":"Server is running on port 3001","timestamp":"2025-06-23T01:18:33.545Z"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2025-06-23T01:18:34.921Z"}
+{"level":"info","message":"Server is running on port 3001","timestamp":"2025-06-23T01:19:42.248Z"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2025-06-23T01:19:43.475Z"}
+{"level":"info","message":"Server is running on port 3001","timestamp":"2025-06-23T01:20:09.020Z"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2025-06-23T01:20:10.389Z"}
+{"level":"info","message":"POST /auth/signup 201 249 - 374.375 ms","timestamp":"2025-06-23T01:20:24.049Z"}
+{"level":"info","message":"POST /auth/signin 200 207 - 280.849 ms","timestamp":"2025-06-23T01:20:41.320Z"}
+{"level":"info","message":"GET /weather?lat=24.71&lon=46.68 200 517 - 638.028 ms","timestamp":"2025-06-23T01:20:57.229Z"}
+{"level":"info","message":"GET /weather?lat=24.71&lon=46.68 401 39 - 2.155 ms","timestamp":"2025-06-23T01:21:19.163Z"}
+{"level":"info","message":"GET /weather?lat=24.71&lon=46.68 401 39 - 7.666 ms","timestamp":"2025-06-23T01:21:23.667Z"}
+{"level":"info","message":"GET /weather?lat=24.71&lon=46.68 401 39 - 1.744 ms","timestamp":"2025-06-23T01:21:51.243Z"}
+{"level":"info","message":"GET /weather?lat=24.71&lon=46.68 200 517 - 205.794 ms","timestamp":"2025-06-23T01:22:08.931Z"}
+{"level":"info","message":"Server is running on port 3001","timestamp":"2025-06-23T01:22:47.661Z"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2025-06-23T01:22:48.969Z"}
+{"level":"info","message":"Server is running on port 3001","timestamp":"2025-06-23T01:23:12.272Z"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2025-06-23T01:23:13.807Z"}
+{"level":"info","message":"POST /auth/signin 200 207 - 265.960 ms","timestamp":"2025-06-23T01:23:17.695Z"}
+{"level":"info","message":"POST /auth/signin 200 207 - 423.332 ms","timestamp":"2025-06-23T01:23:20.672Z"}
+{"level":"info","message":"GET /weather?lat=24.71&lon=46.68 401 39 - 10.881 ms","timestamp":"2025-06-23T01:23:37.386Z"}
+{"level":"info","message":"GET /weather?lat=24.71&lon=46.68 200 517 - 236.278 ms","timestamp":"2025-06-23T01:23:43.438Z"}
+{"level":"info","message":"POST /auth/signin 200 207 - 232.274 ms","timestamp":"2025-06-23T01:24:28.099Z"}
+{"level":"info","message":"GET /weather?lat=24.7136&lon=46.6753 401 39 - 4.763 ms","timestamp":"2025-06-23T01:24:28.134Z"}
+{"level":"info","message":"Server is running on port 3001","timestamp":"2025-06-23T01:26:19.219Z"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2025-06-23T01:26:20.918Z"}
+{"level":"info","message":"POST /auth/signin 200 188 - 239.249 ms","timestamp":"2025-06-23T01:26:25.218Z"}
+{"level":"info","message":"GET /weather?lat=24.71&lon=46.68 200 517 - 297.577 ms","timestamp":"2025-06-23T01:26:41.776Z"}
+{"level":"info","message":"GET /weather?lat=24.71&lon=46.68 200 517 - 206.715 ms","timestamp":"2025-06-23T01:26:44.541Z"}
+{"level":"info","message":"POST /auth/signin 200 188 - 192.088 ms","timestamp":"2025-06-23T01:26:54.014Z"}
+{"level":"info","message":"GET /weather?lat=24.7136&lon=46.6753 200 517 - 202.399 ms","timestamp":"2025-06-23T01:26:54.223Z"}
+{"level":"info","message":"POST /auth/signin 200 188 - 193.629 ms","timestamp":"2025-06-23T01:27:26.806Z"}
+{"level":"info","message":"GET /weather?lat=24.7136&lon=46.6753 304 - - 205.794 ms","timestamp":"2025-06-23T01:27:27.018Z"}
+{"level":"info","message":"GET /weather?lat=21.4858&lon=39.1925 200 519 - 8683.046 ms","timestamp":"2025-06-23T01:41:53.782Z"}
+{"level":"info","message":"GET /weather?lat=30.0444&lon=31.2357 200 505 - 673.588 ms","timestamp":"2025-06-23T01:45:34.347Z"}
+{"level":"info","message":"GET /weather?lat=24.7136&lon=46.6753 304 - - 216.146 ms","timestamp":"2025-06-23T01:45:42.456Z"}
+{"level":"info","message":"GET /weather?lat=24.7136&lon=46.6753 304 - - 229.983 ms","timestamp":"2025-06-23T01:47:21.351Z"}
+{"level":"info","message":"GET /weather?lat=21.4858&lon=39.1925 304 - - 219.141 ms","timestamp":"2025-06-23T01:47:24.759Z"}
+{"level":"info","message":"POST /auth/signup 201 249 - 408.394 ms","timestamp":"2025-06-23T01:48:56.851Z"}
+{"level":"info","message":"POST /auth/signin 401 31 - 199.970 ms","timestamp":"2025-06-23T01:49:11.915Z"}
+{"level":"info","message":"POST /auth/signin 401 31 - 103.752 ms","timestamp":"2025-06-23T01:49:20.035Z"}
+{"level":"info","message":"POST /auth/signin 401 31 - 104.691 ms","timestamp":"2025-06-23T01:49:21.685Z"}
+{"level":"info","message":"POST /auth/signin 401 31 - 101.660 ms","timestamp":"2025-06-23T01:49:29.763Z"}
+{"level":"info","message":"POST /auth/signin 401 31 - 107.906 ms","timestamp":"2025-06-23T01:49:54.874Z"}
+{"level":"info","message":"POST /auth/signin 401 31 - 105.531 ms","timestamp":"2025-06-23T01:49:55.816Z"}
+{"level":"info","message":"POST /auth/signin 401 31 - 1206.482 ms","timestamp":"2025-06-23T01:50:12.044Z"}
+{"level":"info","message":"POST /auth/signin 401 31 - 2525.676 ms","timestamp":"2025-06-23T01:50:19.038Z"}
+{"level":"info","message":"POST /auth/signin 401 31 - 1619.888 ms","timestamp":"2025-06-23T01:50:19.042Z"}
+{"level":"info","message":"POST /auth/signin 200 188 - 373.562 ms","timestamp":"2025-06-23T01:50:28.331Z"}
+{"level":"info","message":"GET /weather?lat=24.7136&lon=46.6753 304 - - 208.918 ms","timestamp":"2025-06-23T01:50:34.251Z"}
+{"level":"info","message":"GET /weather?lat=21.4858&lon=39.1925 304 - - 309.969 ms","timestamp":"2025-06-23T01:50:41.954Z"}
+{"level":"info","message":"GET /weather?lat=30.0444&lon=31.2357 304 - - 199.783 ms","timestamp":"2025-06-23T01:50:48.718Z"}
+{"level":"info","message":"GET /weather?lat=21.3891&lon=39.8579 200 513 - 803.123 ms","timestamp":"2025-06-23T01:54:46.583Z"}
+{"level":"info","message":"GET /weather?lat=24.5247&lon=39.5692 200 494 - 1232.053 ms","timestamp":"2025-06-23T01:54:54.039Z"}
+{"level":"info","message":"GET /weather?lat=24.7136&lon=46.6753 200 498 - 1223.061 ms","timestamp":"2025-06-23T01:55:00.504Z"}
+{"level":"info","message":"GET /weather?lat=21.4858&lon=39.1925 304 - - 214.804 ms","timestamp":"2025-06-23T01:55:04.041Z"}
+{"level":"info","message":"GET /weather?lat=18.2164&lon=42.5053 200 485 - 1265.801 ms","timestamp":"2025-06-23T01:55:09.709Z"}
+{"level":"info","message":"GET /weather?lat=26.4207&lon=50.0888 200 495 - 664.023 ms","timestamp":"2025-06-23T01:55:14.620Z"}
+{"level":"info","message":"GET /weather?lat=18.2164&lon=42.5053 304 - - 202.909 ms","timestamp":"2025-06-23T01:56:21.595Z"}
+{"level":"info","message":"GET /weather?lat=24.5247&lon=39.5692 304 - - 302.505 ms","timestamp":"2025-06-23T02:05:47.142Z"}

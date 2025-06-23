@@ -1,8 +1,8 @@
+import dotenv from 'dotenv';
 import express, { Express, Request, Response, NextFunction } from 'express';
 import cors from 'cors';
 import helmet from 'helmet';
 import morgan from 'morgan';
-import dotenv from 'dotenv';
 import logger from './utils/logger';
 import { dev, port } from './utils/helpers';
 import authRoutes from './routes/Auth.routes';

@@ -19,7 +19,7 @@ export const signUp = async (req: Request, res: Response): Promise<void> => {
     const user = await User.create({ email, passwordHash, role });
 
     const token = jwt.sign({ userId: user._id }, process.env.JWT_SECRET as string, {
-      expiresIn: '1h',
+      expiresIn: '7d',
     });
 
     res.status(201).json({
@@ -41,7 +41,9 @@ export const signIn = async (req: Request, res: Response): Promise<void> => {
       res.status(401).json({ error: 'Invalid credentials' });
       return;
     }
-    const token = jwt.sign({ userId: user._id, role: user.role }, JWT_SECRET, { expiresIn: '1h' });
+  const token = jwt.sign({ userId: user._id }, process.env.JWT_SECRET as string, {
+      expiresIn: '7d',
+    });
     res.json({ token });
   } catch (err) {
     res.status(500).json({ error: 'Signin failed' });
